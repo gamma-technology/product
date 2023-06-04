@@ -28,4 +28,12 @@ Feature - Feat
 Fix - Fix
 Work in progress - Wip
 ```
-
+### Story Point Calculation
+Points = Hours
+1 = 1–2 Hrs
+3 = 2-5 Hrs
+5 = 8–16 Hrs (1.5 days)
+8 = 17–25 Hrs (2-3 days)
+13 = 4-5 days
+24 = 5+ days
+32 = 1Week+
